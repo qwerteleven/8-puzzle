@@ -1,4 +1,6 @@
 # 8-puzzle
+
+## Now work in progress, First naive try 
  
 ![](1-puzzle.PNG?raw=true)
 
